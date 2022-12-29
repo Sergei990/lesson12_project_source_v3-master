@@ -1,0 +1,18 @@
+INFO:lod_one:\u043d\u0430
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:39] "GET /search/?s=\u043d\u0430 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:lod_one:\u041e\u0447\u0435\u043d\u044c \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 \u0437\u0430\u043a\u0430\u0442. \u0421\u0442\u043e\u0438\u043b\u043e
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:45] "GET /search/?s=\u041e\u0447\u0435\u043d\u044c+\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439+\u0437\u0430\u043a\u0430\u0442.+\u0421\u0442\u043e\u0438\u043b\u043e HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:49] "GET /post/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:log_three:The uploaded file is not a jpeg,png,jpg extension.
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:44:57] "POST /post/ HTTP/1.1" 200 -
+INFO:log_three:The uploaded file is not a jpeg,png,jpg extension.
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:45:08] "POST /post/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Dec/2022 02:45:10] "GET /post/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Sergei\\Documents\\Project\\lesson12_project_source_v3-master\\app.py', reloading
